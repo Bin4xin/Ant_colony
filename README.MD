@@ -110,11 +110,10 @@ Version：1.7.0/202206080512      大雾四起
   - linux
   - windows
 - 探测超时；优化探测存活思路；
-
+- [x] 减少仓库占用
+  - [x] `pocs/framework/shiro` 下jar包删除；
+  - [x] `.git`文件夹减少占用`[REF](https://github.com/Bin4xin/bin4xin.github.io/wiki/Git%E6%93%8D%E4%BD%9C-%E4%BB%93%E5%BA%93%E6%96%87%E4%BB%B6%E5%A4%B9%E5%8D%A0%E7%94%A8%E5%A4%AA%E5%A4%A7%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3)`
 
 ## TODO List
 
 - 后续会增加常见通用漏洞的漏洞检测
-- [ ] 减少仓库占用
-  - [x] `pocs/framework/shiro` 下jar包删除；
-  - [ ] `.git`文件夹
